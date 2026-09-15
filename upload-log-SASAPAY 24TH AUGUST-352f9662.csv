@@ -1,0 +1,65 @@
+﻿Upload Job Log
+Job ID,352f9662-f891-47af-8ed8-6495f7c29df3
+File,SASAPAY 24TH AUGUST.xlsx
+Size,21.9 MB
+Type,GATEWAY UPLOAD
+Status,COMPLETED
+Total rows,123339
+Imported (valid),89437
+Errors (rejected),33902
+Started,2026-08-25T13:41:56.000Z
+Completed,2026-08-25T13:43:02.000Z
+Run by,mnyambura@viewtech.co.ke
+
+Row #,Outcome,Reason(s)
+3,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+4,REJECTED,"Missing reference; Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer); Missing gateway reference"
+5,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+6,REJECTED,"Missing reference; Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer); Missing gateway reference"
+7,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+8,REJECTED,"Missing reference; Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer); Missing gateway reference"
+10,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+13,REJECTED,Missing reference; Missing gateway reference
+15,REJECTED,"Acquirer ""CHOICEBANK"" not matched (add to acquirer_code_map or rename acquirer)"
+17,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+18,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+24,REJECTED,"Acquirer ""Airtel"" not matched (add to acquirer_code_map or rename acquirer)"
+26,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+28,REJECTED,"Missing reference; Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer); Missing gateway reference"
+29,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+33,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+37,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+38,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+42,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+44,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+47,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+58,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+63,REJECTED,Missing reference; Missing gateway reference
+64,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+69,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+71,REJECTED,Missing reference; Missing gateway reference
+73,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+76,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+80,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+82,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+84,REJECTED,Missing reference; Missing gateway reference
+85,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+86,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+108,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+109,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+110,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+114,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+119,REJECTED,Missing reference; Missing gateway reference
+120,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+129,REJECTED,Missing reference; Missing gateway reference
+130,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+137,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+145,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+146,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+156,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+167,REJECTED,Missing reference; Missing gateway reference
+168,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+178,REJECTED,"Acquirer ""Airtel"" not matched (add to acquirer_code_map or rename acquirer)"
+188,REJECTED,"Acquirer ""Safaricom"" not matched (add to acquirer_code_map or rename acquirer)"
+203,REJECTED,Missing reference; Missing gateway reference
+,… 33852 more rejected rows (detail capped at 50),
